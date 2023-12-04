@@ -1,6 +1,6 @@
 public class first{
     public static void main(String[]args){
-        getSmallest(3,0,2);
+        getSmallest(3,7,2);
     }
 
     public static void getSmallest(int x, int y, int z){
